@@ -81,11 +81,8 @@
                 ".editorconfig": "../.editorconfig",
                 ".gitattributes": "../.gitattributes"
             }
-        },
-         "patches": {
-            "drupal/config_split": {
-                "Uppercase module name": "https://www.drupal.org/files/issues/2019-02-14/capitalize-module-name-info-file-3033126-2.patch"
-            }
         }
+      
+        
     }
 }
