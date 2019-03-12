@@ -24,6 +24,7 @@
         "drupal/config_split": "^1.4",
         "drupal/console": "^1.0.2",
         "drupal/core": "^8.6.0",
+        "drupal/module_filter": "^3.1",
         "drush/drush": "^9.0.0",
         "vlucas/phpdotenv": "^2.4",
         "webflo/drupal-finder": "^1.0.0",
@@ -80,11 +81,8 @@
                 ".editorconfig": "../.editorconfig",
                 ".gitattributes": "../.gitattributes"
             }
-        },
-         "patches": {
-            "drupal/config_split": {
-                "Uppercase module name": "https://www.drupal.org/files/issues/2019-02-14/capitalize-module-name-info-file-3033126-2.patch"
-            }
         }
+      
+        
     }
 }
